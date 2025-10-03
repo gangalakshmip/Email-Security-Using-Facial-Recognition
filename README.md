@@ -37,6 +37,13 @@ This project adds an extra layer of protection by integrating **Facial Recogniti
 
 ---
 
+## 🔮 Future Scope
+-GUI-based login interface 🎨
+-Support for multiple email providers 📬
+-Advanced anti-spoofing techniques 🛡️
+
+---
+
 ## 🚀 Run the Project  
 ```bash
 git clone https://github.com/yourusername/email-facial-recognition.git
@@ -44,9 +51,4 @@ cd email-facial-recognition
 pip install -r requirements.txt
 python main.py
 
----
 
-## 🔮 Future Scope
--GUI-based login interface 🎨
--Support for multiple email providers 📬
--Advanced anti-spoofing techniques 🛡️
