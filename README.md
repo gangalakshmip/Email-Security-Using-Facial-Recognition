@@ -53,4 +53,12 @@ cd email-facial-recognition
 pip install -r requirements.txt
 python main.py
 
+---
 
+## 📫 Connect with Me
+
+- **✉️Email:** [gangalaxmi2506@gmail.com]  
+- **🔗LinkedIn:** [https://www.linkedin.com/in/gangalakshmi-p-87a445322]
+- **GitHub:** [https://github.com/gangalakshmip].
+  
+**Happy Coding!**💻✨
