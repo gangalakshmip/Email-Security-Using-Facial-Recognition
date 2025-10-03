@@ -38,11 +38,11 @@ This project adds an extra layer of protection by integrating **Facial Recogniti
 ---
 
 ## 🔮 Future Scope
-**GUI-based login interface**🎨
+-**GUI-based login interface**🎨
 
-**Support for multiple email providers**📬
+-**Support for multiple email providers**📬
 
-**Advanced anti-spoofing techniques**🛡️
+-**Advanced anti-spoofing techniques**🛡️
 
 ---
 
