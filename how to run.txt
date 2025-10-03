@@ -1,0 +1,21 @@
+Working Steps
+
+python edgedetect.py
+
+python facetrack.py
+
+
+Project Run
+
+To Create the dataset
+
+python headshots.py name
+
+To Train the dataset
+
+python encode_faces.py
+
+Test the model
+
+python facial_req.py
+
