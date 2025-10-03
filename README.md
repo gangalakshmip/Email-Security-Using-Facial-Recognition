@@ -52,7 +52,7 @@ git clone https://github.com/yourusername/email-facial-recognition.git
 cd email-facial-recognition
 pip install -r requirements.txt
 python main.py
-
+```
 ---
 
 ## 📫 Connect with Me
